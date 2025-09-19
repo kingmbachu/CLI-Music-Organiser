@@ -74,4 +74,5 @@ Clone the repository and run the executable file main:
 ```bash
 git clone https://github.com/kingmbachu/CLI-Music-Organiser.git
 cd CLI-Music-Organiser
+chmod +x main
 ./main
