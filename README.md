@@ -1,4 +1,4 @@
-# Playlist Shuffler and Sorter (C)
+# CLI-Music-Organiser
 
 ## Overview
 
