@@ -68,6 +68,10 @@ The combination of these approaches ensures both efficiency and correctness in h
 
 Clone the repository and run the executable file main:
 
+
+## Installation & Usage
+
+```bash
 git clone https://github.com/kingmbachu/CLI-Music-Organiser.git
 cd CLI-Music-Organiser
 ./main
